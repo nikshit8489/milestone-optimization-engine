@@ -23,8 +23,8 @@ A data-driven creator payout optimization system that recommends milestone-based
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <project-folder>
+git clone https://github.com/nikshit8489/milestone-optimization-engine.git
+cd milestone-optimization-engine
 ```
 
 ### 2. Install Python Dependencies
